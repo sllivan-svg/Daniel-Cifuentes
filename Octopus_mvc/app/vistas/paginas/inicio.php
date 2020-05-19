@@ -1,1 +1,4 @@
-<h1>La url que esta tratando de acceder no existe</h1>
+<p><?php echo $datos['titulo']; ?></p>
+
+
+
