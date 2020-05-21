@@ -1,4 +1,10 @@
 <?php 
+	
+	//configuracion de acceso a la base de datos
+	define('DB_HOTS','localhost');
+	define('DB_USUARIO','root');
+	define('DB_PASSWORD','');
+	define('DB_NOMBRE','semillero');
 
 	//Ruta de la aplicacion
 

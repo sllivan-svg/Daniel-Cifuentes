@@ -8,7 +8,7 @@
 		public function modelo($modelo)
 		{
 			//Cargar
-			require_once '../modelos/' . $modelo . '.php';
+			require_once '../app/modelos/' . $modelo . '.php';
 			//instanciar el modelo
 			return new $modelo();
 		} 
